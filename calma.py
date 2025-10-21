@@ -3,4 +3,4 @@ class Veicolo():
 class Auto(Veicolo):
     pass
 class Moto(Veicolo):
-    pass
+    pas
